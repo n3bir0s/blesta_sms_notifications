@@ -1,2 +1,4 @@
-# project
-Sample project 
+# Blesta SMS Notifications
+
+Blesta billing SMS Notifications
+
